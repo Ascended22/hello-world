@@ -1,2 +1,2 @@
 # hello-world
-A short description
+Last readme was stupid, so I wrote this one
